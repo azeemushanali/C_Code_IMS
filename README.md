@@ -1,7 +1,7 @@
 # C_Code_IMS
 This is a practice repo for practice of C files
 # Basic C Programs on Control Statements (Looping) & Recursion
-- Easy
+### Easy
     1.	A character is a vowel or consonant
     2.	A character is an alphabet or not
     3.	Ascii values of a character
@@ -34,8 +34,9 @@ This is a practice repo for practice of C files
     30.	Power of a number
     31.	Factors of a number
     32.	Add two fractions
-- Medium
-33.	Prime numbers in a given range
+    
+### Medium
+    33.	Prime numbers in a given range
     34.	Armstrong numbers between two intervals
     35.	Can a number be expressed as a sum of two prime numbers?
     36.	Replace all 0's with 1 in a given integer
