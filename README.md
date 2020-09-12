@@ -1,5 +1,7 @@
 # C_Code_IMS
-This is a practice repo for practice of C files
+This is a practice repo for practice of C files 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=C_Code_IMS)
+
 # Basic C Programs on Control Statements (Looping) & Recursion
 ### Easy
     1.	A character is a vowel or consonant
