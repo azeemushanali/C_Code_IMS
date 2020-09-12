@@ -1,6 +1,6 @@
-# C_Code_IMS
+# C_Code_IMS  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=C_Code_IMS)
 This is a practice repo for practice of C files 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=C_Code_IMS)
+
 
 # Basic C Programs on Control Statements (Looping) & Recursion
 ### Easy
